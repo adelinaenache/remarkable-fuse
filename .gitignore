@@ -1,0 +1,3 @@
+mountpoint/*
+backup/*
+.DS_STORE
